@@ -1,0 +1,22 @@
+site_name: Kamila Kubicka- portfolio 
+site_author: Kamila Kubicka
+site_description: >-
+  My projects in the area of data analytics and AI - from data mining, ML models, reports.
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Main page: index.md
+  - My projects:
+      - Half-maraton:
+          - Overview: half-maraton/index-Copy1.md
+      - Language helper: language_helper/index.md
+      - Iris EDA: iris_eda/index.md
+  - Contact: contact.md
+  
+
+ 

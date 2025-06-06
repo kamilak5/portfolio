@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Data Science Portfolio</title>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    h1, h2 {
+      color: #2c3e50;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #4a90e2;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+
+    .button:hover {
+      background-color: #357abd;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    ul li {
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #4a90e2;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Home Section -->
+  <section id="home">
+    <h1>Welcome to my page!</h1>
+    <p>
+      I'm a data scientist with a background in cognitive science, focused on creating intelligent, user-aware systems that combine technical precision with human-centered design. I work across data, design, and decision-making — blending machine learning and large language models (LLMs) to develop practical, real-world solutions.
+    </p>
+    <p>
+        I help teams turn data into actionable insight, working at the intersection of machine learning, human-centered design, and LLM integration. If you're looking to <strong>improve predictions, personalize user experience, or prototype AI-driven solutions</strong> — you're in the right place.
+    </p><p>
+        Here you’ll find a selection of my projects, including end-to-end ML applications, NLP-based tools, and user-focused prototypes. Each project reflects my commitment to thoughtful design, clean data pipelines, and meaningful impact.
+    </p>
+    <a href="/contact/" class="button">Get in Touch</a>
+  </section>
+
+
+  <!-- Footer -->
+  <footer>
+    © 2025 Kamila Kubicka — All rights reserved.
+  </footer>
+
+</body>
+</html>
