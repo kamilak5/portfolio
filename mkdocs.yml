@@ -3,6 +3,9 @@ site_author: Kamila Kubicka
 site_description: >-
   My projects in the area of data analytics and AI - from data mining, ML models, reports.
 
+repo_name: kamilak5/portfolio
+repo_ulr: https://github.com/kamilak5/portfolio 
+
 theme:
   name: material
 
