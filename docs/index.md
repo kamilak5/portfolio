@@ -1,3 +1,8 @@
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -123,20 +128,22 @@
   I help teams turn data into actionable insight, working at the intersection of machine learning, human-centered design, and LLM integration. If you're looking to <strong>improve predictions, personalize user experience, or prototype AI-driven solutions</strong> — you're in the right place.
 </p>
 
-    <p>
-    Here you’ll find a selection of <strong> my projects </strong>, including <strong> end-to-end ML applications, data exploration reports, and user-focused prototypes </strong>. Each project reflects my commitment to thoughtful design, clean data pipelines, and meaningful impact.
-    </p>
-   <p style="margin-top: 30px;">
-  <a href="contact/" style="font-size: 1.2em; font-weight: bold; color: #4a90e2; text-decoration: underline;">
-    Let’s solve smart problems together →
-  </a>
-</p>
+    </p><p>
+        Here you’ll find a selection of my projects, including <strong> end-to-end ML applications, EDA project, and user-focused prototypes.</strong> Each project reflects my commitment to thoughtful design, clean data pipelines, and meaningful impact.
+    <p style="margin-top: 30px;">
+        Let’s solve smart problems together →
+      </p>
+    </div>
+  </div>
+</section>
 
 
+<!-- Footer -->
+<footer>
+  © 2025 Kamila Kubicka — All rights reserved.<br />
+  <a href="mailto:kamilakubicka5@gmail.com">kamilakubicka5@gmail.com</a> |
+  <a href="contact.html">Contact</a>
+</footer>
 
-  <!-- Footer -->
-  <footer>
-    © 2025 Kamila Kubicka — All rights reserved.
-      <a href="mailto:kamilakubicka5@gmail.com">kamilakubicka5@gmail.com</a> | <a href="contact/">Contact</a>
-  </footer>
-
+</body>
+</html>
