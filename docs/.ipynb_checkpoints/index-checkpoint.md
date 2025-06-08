@@ -71,26 +71,75 @@
 
 <body>
 
-  <!-- Home Section -->
-  <section id="home">
-    <h1>Welcome to my page!</h1>
-    <p>
-  I'm a data scientist with a background in cognitive science, focused on creating intelligent, user-aware systems that combine technical precision with human-centered design. My interdisciplinary foundation gives me a strong base — and I'm excited to keep learning, exploring new tools and methods to solve meaningful problems.
+<!-- Home Section -->
+<section id="home">
+  <style>
+    .intro {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .intro-text {
+      flex: 1;
+      min-width: 250px;
+    }
+
+    .intro img {
+      width: 250px;
+      height: auto;
+      border-radius: 10px;
+      object-fit: cover;
+      order: 2; /* To force image to appear after text visually */
+      margin-top: 90px;
+    }
+
+    @media (max-width: 768px) {
+      .intro {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .intro img {
+        order: 0;
+        width: 100%;
+        max-width: 320px;
+      }
+    }
+  </style>
+
+
+  <div class="intro">
+    <img src="zdj_cv.jpg" alt="Kamila Kubicka" />
+
+    <div class="intro-text">
+      <h1>Welcome to my page!</h1>
+      <p>
+  I'm a <strong> data scientist </strong> with a background in <strong> cognitive science </strong>, focused on creating intelligent, user-aware systems that combine technical precision with human-centered design. My interdisciplinary foundation gives me a strong base and I'm excited to keep learning, exploring new tools and methods to solve meaningful problems.
 </p>
 <p>
   I help teams turn data into actionable insight, working at the intersection of machine learning, human-centered design, and LLM integration. If you're looking to <strong>improve predictions, personalize user experience, or prototype AI-driven solutions</strong> — you're in the right place.
 </p>
 
     </p><p>
-        Here you’ll find a selection of my projects, including end-to-end ML applications, NLP-based tools, and user-focused prototypes. Each project reflects my commitment to thoughtful design, clean data pipelines, and meaningful impact.
+        Here you’ll find a selection of <strong> my projects </strong>, including <strong> end-to-end ML applications, data exploration reports, and user-focused prototypes </strong>. Each project reflects my commitment to thoughtful design, clean data pipelines, and meaningful impact.
     </p>
-    <a href="/contact/" class="button">Get in Touch</a>
+   <p style="margin-top: 30px;">
+  <a href="contact/" style="font-size: 1.2em; font-weight: bold; color: #4a90e2; text-decoration: underline;">
+    Let’s solve smart problems together →
+  </a>
+</p>
+
   </section>
 
 
   <!-- Footer -->
   <footer>
     © 2025 Kamila Kubicka — All rights reserved.
+       <a href="contact/">Contact</a>
+      <a href="mailto:kamilakubicka5@gmail.com">kamilakubicka5@gmail.com</a> | <a href="contact/">Contact</a>
   </footer>
 
 </body>

@@ -24,6 +24,7 @@ Before diving into machine learning, I wanted to develop a feel for how to explo
 - Correlation matrix
 - Feature comparison across classes
 - Class separation in feature space
+- Created domain-inspired feature: petal area (length × width)
 
 ---
 
@@ -43,7 +44,15 @@ Python, Pandas, Matplotlib, Jupyter Notebook, nbconvert (slides)
 - Dataset was clean (no missing values), with 3 duplicates and a few mild outliers in Setosa group.
 - Created a derived feature: **petal area**, which enhanced visual comparison across classes.
 
+## Limitations & Future Work
 
+- **Static dataset, no generalization**: The Iris dataset is small, well-behaved, and often used for educational purposes. While ideal for early-stage exploration, its simplicity limits generalization to more complex, noisy real-world datasets.
+
+- **No modeling step included**: This project focused strictly on EDA and feature understanding. A natural next step would be applying classification models (e.g., logistic regression) to evaluate how well patterns translate into predictive performance.
+
+- **No interactivity or dashboarding**: All outputs were static (PDF/slides). Future iterations could include interactive dashboards (e.g., Streamlit, Plotly Dash) for deeper user-driven exploration and presentation.
+
+- **Minimal feature engineering**: Only a single derived feature (petal area) was created. This leaves room for experimenting with domain-inspired transformations, dimensionality reduction, or clustering approaches to uncover deeper patterns.
 
 
 
