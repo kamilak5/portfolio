@@ -132,7 +132,6 @@
   </a>
 </p>
 
-  </section>
 
 
   <!-- Footer -->
