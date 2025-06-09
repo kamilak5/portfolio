@@ -16,9 +16,9 @@ Here you’ll find a selection of my projects, including <strong>end-to-end ML a
 </p>
 
 <p style="margin-top: 30px;">
-<a href="contact/" style="font-size: 1.2em; font-weight: bold; color: #4a90e2; text-decoration: none;">
-Let’s solve smart problems together →
-</a>
+  <a href="contact.md" style="font-size: 1.2em; font-weight: bold; color: #4a90e2; text-decoration: none;">
+    Let’s solve smart problems together →
+  </a>
 </p>
 </div>
 
@@ -26,7 +26,7 @@ Let’s solve smart problems together →
 
 </div>
 
----
+<br /><br />
 
 © 2025 Kamila Kubicka — All rights reserved.  
 [📧 kamilakubicka5@gmail.com](mailto:kamilakubicka5@gmail.com) • [Contact](contact.md)
