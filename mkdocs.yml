@@ -10,6 +10,7 @@ theme:
   name: material
   features:
     - navigation.expand
+    - navigation.sections
     - toc.integrate
 
 markdown_extensions:
