@@ -1,7 +1,7 @@
 
 # 🌸  Iris Dataset – Exploratory Data Analysis
 
-This was my first data analysis project, using the classic Iris dataset. It helped me explore the fundamentals of working with data in Python — especially using Pandas for data manipulation and Seaborn for visualization. Looking back at it now, I clearly see how much I’ve grown in terms of understanding data structures, building insight, and communicating findings. This project laid the foundation for my later work in machine learning and full data science pipelines.
+This was my first data analysis project, using the classic Iris dataset. It helped me explore the fundamentals of working with data in Python - especially using Pandas for data manipulation and Seaborn for visualization. Looking back at it now, I clearly see how much I’ve grown in terms of understanding data structures, building insight, and communicating findings. This project laid the foundation for my later work in machine learning and full data science pipelines.
 
 
 ## Problem
@@ -21,9 +21,8 @@ Before diving into machine learning, I wanted to develop a feel for how to explo
 ## Key Features
 
 - Summary statistics and feature distributions
-- Correlation matrix
+- Correlation analysis 
 - Feature comparison across classes
-- Class separation in feature space
 - Created domain-inspired feature: petal area (length × width)
 
 ---

@@ -9,23 +9,30 @@ The app is built with Streamlit and OpenAI's GPT-4o, and includes features such 
 - Secure API key handling
 - Multilingual interface (Polish, English, Catalan)
 - Prompt templating and JSON-based feedback for explainability
-- AI-powered topic search: Learners can request real-world content (e.g., articles, videos) on topics like "ecology," automatically tailored to their selected CEFR level — enabling more relevant, interest-based learning with authentic materials.
+- AI-powered topic search: Learners can request real-world content (e.g., articles, videos) on topics like "ecology," automatically tailored to their selected CEFR level - enabling more relevant, interest-based learning with authentic materials.
 - Scalable architecture ready for ASR (Whisper) and TTS (gTTS) integration
 
 The project showcases practical use of LLMs in EdTech, focusing on user experience and modular design for future expansion.
 
+---
 
 ## Project Summary
-A real-time, interactive language learning tool powered by GPT-4o. The app helps users practice conversation, get corrections, learn context-based vocabulary, and receive tailored feedback — all aligned with CEFR language proficiency levels.
+A real-time, interactive language learning tool powered by GPT-4o. The app helps users practice conversation, get corrections, learn context-based vocabulary, and receive tailored feedback - all aligned with CEFR language proficiency levels.
+
+---
 
 ## Problem
 Most language apps are rigid and template-based, with limited adaptability to learner needs. This project explores how LLMs can simulate real-life conversation, provide feedback, and personalize learning based on behavior and CEFR levels.
+
+---
 
 ## My Role
 - Architected and implemented the full system logic: from prompt design to multilingual interface
 - Integrated GPT-4o as a conversational tutor, ensuring grammar correction and feedback after each user input
 - Designed CEFR-based complexity modulation
 - Designed and tested user flows for maximum clarity and engagement
+
+---
 
 ## Key Features
 The app includes several intelligent features designed to mimic real language instruction and adapt to different learner profiles:
@@ -48,16 +55,21 @@ GPT-4o dynamically adjusts its behavior based on the selected interaction mode.
 - **Personal Notepad:**
 - Area for taking personal notes. While currently manual, it allows learners to jot down corrections, new words, or practice goals.
 - **Token and Cost Tracking:**
-- Real-time session stats show how many tokens were used and the estimated OpenAI API cost — encouraging mindful use and transparency.
+- Real-time session stats show how many tokens were used and the estimated OpenAI API cost - encouraging mindful use and transparency.
 
+---
 
 ## Tools & Technologies
-Python, OpenAI GPT-4o API, Streamlit, CEFR-based logic tree
+Python, OpenAI GPT-4o API, Streamlit, CEFR-based logic
+
+---
 
 ## Outcomes
 Simulated a private language tutor using AI, lowering access barriers to high-quality conversation practice
 Feedback showed high user engagement due to personalization and friendliness of feedback
 Demonstrated practical, scalable use of LLMs in edtech
+
+---
 
 ## Limitations & Future Work
 

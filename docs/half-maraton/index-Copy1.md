@@ -14,15 +14,20 @@
 
 ## This project highlights a complete data science pipeline: from data exploration and modeling to deployment, LLM integration, and production monitoring.
 
+---
 
 ## Project Summary
 This project delivers a predictive web application that estimates half-marathon finish times based on runners’ personal, physiological, and training data. Beyond raw prediction, it also integrates GPT-4 to generate personalized, human-like training advice and motivational messages tailored to the user’s performance level.
 
+---
+
 ## Problem
 Casual runners often lack data-driven guidance when preparing for future races. Most online predictors rely on outdated heuristics. This project used historical race data (2023) to predict performance in a future event (2024), simulating real-life race planning.
 
+---
+
 ## My Role
-I led the entire pipeline — from data preparation to live deployment. My contributions included:
+I led the entire pipeline - from data preparation to live deployment. My contributions included:
 
 - Designing the data workflow (EDA, preprocessing, feature engineering)
 - Training and evaluating regression models (selected Lasso for interpretability)
@@ -31,13 +36,19 @@ I led the entire pipeline — from data preparation to live deployment. My contr
 - Implementing real-time monitoring of both model and GPT-4 outputs with Langfuse
 - Ensuring secure API handling via environment configs
 
+---
+
 ## Tools & Technologies
 Python, pandas, Streamlit, OpenAI API (GPT-4), matplotlib
+
+---
 
 ## Outcome 
 Delivered a fully functional web application predicting half-marathon finish times based on structured and natural-language input.
 Achieved accurate, interpretable predictions when tested on unseen 2024 data, validating the model’s generalization capability across race events.
 Demonstrated ability to combine machine learning and generative AI to solve a real-world, user-facing problem
+
+---
 
 ## Limitations & Future Work
 
