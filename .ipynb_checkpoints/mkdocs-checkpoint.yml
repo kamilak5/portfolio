@@ -8,6 +8,9 @@ repo_url: https://github.com/kamilak5/portfolio
 
 theme:
   name: material
+  features:
+    - navigation.expand  
+    - toc.integrate 
 
 plugins:
   - search
