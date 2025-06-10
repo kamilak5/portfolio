@@ -21,7 +21,7 @@ clean data pipelines, and meaningful impact.
 ## My projects 
 - [Half-Marathon Time Predictor – End-to-End ML App with GPT-4 Integration](half-maraton/index-Copy1.md)
 - [AI Language Learning App with GPT-4o](language_helper/index.md)
-- [🌸 Iris Dataset – Exploratory Data Analysis](iris_eda/index.md)
+- [Iris Dataset – Exploratory Data Analysis](iris_eda/index.md)
 
 ---
 
