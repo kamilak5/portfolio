@@ -39,7 +39,7 @@ I led the entire pipeline - from data preparation to live deployment. My contrib
 ---
 
 ## Tools & Technologies
-Python, pandas, Streamlit, OpenAI API (GPT-4), matplotlib
+Python, pandas, Streamlit, OpenAI API (GPT-4), matplotlib, PyCaret
 
 ---
 

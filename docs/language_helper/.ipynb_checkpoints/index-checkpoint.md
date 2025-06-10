@@ -22,7 +22,7 @@ A real-time, interactive language learning tool powered by GPT-4o. The app helps
 ---
 
 ## Problem
-Most language apps are rigid and template-based, with limited adaptability to learner needs. This project explores how LLMs can simulate real-life conversation, provide feedback, and personalize learning based on behavior and CEFR levels.
+Most language apps are rigid and template-based, with limited adaptability to learner needs. This project explores how LLMs can simulate real-life conversation, provide feedback, and personalize learning based on interests and CEFR levels.
 
 ---
 
@@ -65,9 +65,8 @@ Python, OpenAI GPT-4o API, Streamlit, CEFR-based logic
 ---
 
 ## Outcomes
-Simulated a private language tutor using AI, lowering access barriers to high-quality conversation practice
-Feedback showed high user engagement due to personalization and friendliness of feedback
-Demonstrated practical, scalable use of LLMs in edtech
+Simulated a private language tutor using AI, lowering access barriers to high-quality conversation practice.
+Demonstrated practical, scalable use of LLMs in edtech.
 
 ---
 
