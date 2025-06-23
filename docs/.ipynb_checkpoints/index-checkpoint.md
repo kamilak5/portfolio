@@ -1,6 +1,6 @@
 # Welcome to my page!
 
-I'm a **data scientist** with a background in **cognitive science**, focused on creating intelligent, 
+My name is Kamila, I'm a **data scientist** with a background in **cognitive science**, focused on creating intelligent, 
 user-aware systems that combine technical precision with human-centered design. 
 My interdisciplinary foundation gives me a strong base and I'm excited to keep learning, 
 exploring new tools and methods to solve meaningful problems.
@@ -21,6 +21,7 @@ clean data pipelines, and meaningful impact.
 ## My projects 
 - [Half-Marathon Time Predictor – End-to-End ML App with GPT-4 Integration](half-maraton/index-Copy1.md)
 - [AI Language Learning App with GPT-4o](language_helper/index.md)
+- [Credit Risk Predictor](Credit_Risk_Predictor/index.md) 
 - [Iris Dataset – Exploratory Data Analysis](iris_eda/index.md)
 
 ---
