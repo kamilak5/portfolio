@@ -25,6 +25,6 @@ nav:
       - Half-maraton:
           - Overview: half-maraton/index-Copy1.md
       - Language helper: language_helper/index.md
-      - Credit Risk Predictor: Credit Risk Predictor/index.md
+      - Credit Risk Predictor: Credit_Risk_Predictor/index.md
       - Iris EDA: iris_eda/index.md
   - Contact: contact.md
