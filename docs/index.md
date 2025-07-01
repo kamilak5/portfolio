@@ -9,8 +9,8 @@ I help teams turn data into actionable insight, working at the intersection of m
 human-centered design, and LLM integration. If you're looking to **improve predictions, 
 personalize user experience, or prototype AI-driven solutions** - you're in the right place.
 
-Here you’ll find a selection of my projects, including **end-to-end ML applications, EDA project, 
-and user-focused prototypes.** Each project reflects my commitment to thoughtful design, 
+Here you’ll find a selection of my projects, including **end-to-end ML application, a credit risk prediction model and 
+an AI-powered language learning app.** Each project reflects my commitment to thoughtful design, 
 clean data pipelines, and meaningful impact.
 
 [**Let’s solve smart problems together →**](contact.md)
@@ -22,7 +22,6 @@ clean data pipelines, and meaningful impact.
 - [Half-Marathon Time Predictor – End-to-End ML App with GPT-4 Integration](half-maraton/index-Copy1.md)
 - [AI Language Learning App with GPT-4o](language_helper/index.md)
 - [Credit Risk Predictor](Credit_Risk_Predictor/index.md) 
-- [Iris Dataset – Exploratory Data Analysis](iris_eda/index.md)
 
 ---
 
