@@ -10,14 +10,14 @@
  - Integrated GPT-4 to convert unstructured text input into structured features (via JSON parsing and chat completions)
  - Deployed the model in a user-friendly Streamlit app hosted on DigitalOcean
  - Implemented real-time monitoring of model and LLM performance with Langfuse
- - Ensured secure handling of API keys and configurations using environment variables
+
 
 ## This project highlights a complete data science pipeline: from data exploration and modeling to deployment, LLM integration, and production monitoring.
 
 ---
 
 ## Project Summary
-This project delivers a predictive web application that estimates half-marathon finish times based on runners’ personal, physiological, and training data. Beyond raw prediction, it also integrates GPT-4 to generate personalized, human-like training advice and motivational messages tailored to the user’s performance level.
+This project delivers a predictive web application that estimates half-marathon finish times based on runners’ personal, physiological, and training data. 
 
 ---
 
