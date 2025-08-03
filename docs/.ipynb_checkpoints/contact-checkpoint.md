@@ -7,5 +7,5 @@
 - **GitHub**: [github.com/kamilak5](https://github.com/kamilak5)
 - **Phone**: [+48 697 769 906](tel:+48697769906) / [+34 691 642 296](tel:+34691642296)
 - **CV**:
-  - [Download my CV in English (PDF)](Kamila.Kubicka_CV_EN.pdf)
-  - [Download my CV in Spanish (PDF)](Kamila.Kubicka_CV_ES.pdf)
+  - [Download my CV in English (PDF)](Kamila_Kubicka_CV_EN.pdf)
+  - [Download my CV in Spanish (PDF)](Kamila_Kubicka_CV_ES.pdf)
